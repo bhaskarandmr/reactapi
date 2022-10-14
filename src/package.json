@@ -1,0 +1,13 @@
+{
+  "name": "fetching-data-in-react-github-api",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "0.16.2",
+    "prop-types": "15.5.10",
+    "react": "15.5.3",
+    "react-dom": "15.5.3"
+  }
+}
